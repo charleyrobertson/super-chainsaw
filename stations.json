@@ -34,5 +34,32 @@
     "VisitCount": 6,
     "LastVisitTime": "2012-01-01 11:32:15",
     "RoundId": 0
+  },
+  {
+    "StationId": 4,
+    "StationName": "Perth Community Centre",
+    "Latitude": "56.84368",
+    "Longitude": "-3.97042",
+    "VisitCount": 3,
+    "LastVisitTime": "2018-01-01 11:32:15",
+    "RoundId": 0
+  },
+    {
+    "StationId": 5,
+    "StationName": "Glasgow Community Centre",
+    "Latitude": "55.84368",
+    "Longitude": "-3.87042",
+    "VisitCount": 8,
+    "LastVisitTime": "2020-01-01 11:32:15",
+    "RoundId": 0
+  },
+  {
+    "StationId": 6,
+    "StationName": "Edinburgh Community Centre",
+    "Latitude": "56.84368",
+    "Longitude": "-3.97042",
+    "VisitCount": 6,
+    "LastVisitTime": "2012-01-01 11:32:15",
+    "RoundId": 0
   }
 ]

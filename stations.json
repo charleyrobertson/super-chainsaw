@@ -1,0 +1,19 @@
+[
+  {
+    "StationId": 0,
+    "StationName": "Salsburgh Community Centre",
+    "Latitude": "55.84368",
+    "Longitude": "-3.87042",
+    "VisitCount": 3,
+    "LastVisitTime": "2018-01-01 11:32:15",
+    "RoundId": 0
+  },
+  {
+    "StationId": 1,
+    "StationName": "Shotts Community Centre",
+    "Latitude": "56.84368",
+    "Longitude": "-3.97042",
+    "VisitCount": 3,
+    "LastVisitTime": "2018-01-01 11:32:15",
+    "RoundId": 0
+  }
